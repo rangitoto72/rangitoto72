@@ -2,7 +2,7 @@
 Nothing to say really, just love devloping
 
 # 💻 Tech Stack:
-These badges represent a limited viewof the technologies, languages, platforms, and tools I work with:
+These badges represent a limited view of the technologies, languages, platforms, and tools I work with:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
