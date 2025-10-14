@@ -1,5 +1,5 @@
 # 💫 About Me:
-Nothing to say really, just love devloping
+Nothing to say really, just love developing
 
 # 💻 Tech Stack:
 These badges represent a limited view of the technologies, languages, platforms, and tools I work with:
